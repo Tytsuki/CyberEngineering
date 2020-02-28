@@ -1,6 +1,6 @@
 # Bunifuframework
 
-**Crack Version:** 1.0
+**Crack Version:**  2.0
 
 **Site:** https://bunifuframework.com/  
 **Bunifu.UI.WinForms Version:** 2.1.4 Beta  
