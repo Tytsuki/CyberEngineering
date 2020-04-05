@@ -9,5 +9,5 @@ Pluto is a self-written moviestarplanet api with which you can send queries to t
 
 I will soon publish a program with which you can get likes, fame and starcoins.
 
-## [coming soon](https://github.com/cydolo/)
+## [coming soon only on discord!](https://discordapp.com/invite/dC3jWNd)
 
