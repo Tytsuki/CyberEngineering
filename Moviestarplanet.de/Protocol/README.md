@@ -16,15 +16,15 @@ Not only the hash is required to send a valid request. You also need to set the 
 
 **Hashed type:** sha1
 
-> **The checksum is hashed with a security string** *(the string cannot be found in the source code because it is not declared publicly, but can be displayed by debugging the code)* **a 5 digit random number and the object array.**  
+> **The checksum is hashed with a security string** *(the string cannot be found in the source code because it is not declared publicly, but can be displayed by debugging the code)* **first 5 chars from ticket generator and the object array.**  
   
-Security String | Object Array | 5 digit random Number
+Security String | Object Array | 5 chars from ticket generator
 --- | --- | ---
-`+mMKkZgKBT#-p#64` | `object[]` | `12345`
+`+mMKkZgKBT#-p#64` | `object[]` | `158f3`
 
 the string then looks like this. the object array must of course be converted into a single string.
 ```cs
-"+mMKkZgKBT#-p#64" + "Object[]" + "Number"
+"+mMKkZgKBT#-p#64" + "Object[]" + "5 chars"
 ```
 The sh1 hashed string is then converted to **hex**
 
