@@ -53,3 +53,9 @@ The md5 hashed string is then converted to **hex**
 `hex(md5(string))`
 
 **this hash will be added at the end of the ticket you get when you login**
+
+Example:
+
+```cs
+"DE,18694571,1F2136B8-A99A-4D88-83F0-86DB6405C52B,2020-04-25T16:43:34,v3GD012n69PhUM69KUAoFg==," + hash
+```
