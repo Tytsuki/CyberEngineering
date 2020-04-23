@@ -1,9 +1,9 @@
-# Moviestarplanet Protocol
+# MovieStarplanet Protocol
 
 **I will not provide any code. You have to master programming to use this thing.**
 
-> Moviestarplanet uses the [Action Message Format (AMF)](https://en.wikipedia.org/wiki/Action_Message_Format) to send requests to the server.  
-> The libraby [FluorineFx](https://code.google.com/archive/p/fluorinefx/) is used to send AMF queries and then serialize/deserialize the response.
+> MovieStarplanet uses the [Action Message Format (AMF)](https://en.wikipedia.org/wiki/Action_Message_Format) to send requests to the server.  
+> The library [FluorineFx](https://code.google.com/archive/p/fluorinefx/) is used to send AMF requests and then serialize/deserialize the response.
 
 # Hash Algorithm
 
@@ -12,12 +12,11 @@
 
 Not only the hash is required to send a valid request. You also need to set the request properties for Moviestarplanet.
 
-
 ## Checksum
 
 **Hashed type:** sha1
 
-> **The checksum is hashed with a security string** *the string cannot be found in the source code because it is not declared publicly, but can be displayed by debugging the code* **a 5 digit random number and the object array.**  
+> **The checksum is hashed with a security string** *(the string cannot be found in the source code because it is not declared publicly, but can be displayed by debugging the code)* **a 5 digit random number and the object array.**  
   
 Security String | Object Array | 5 digit random Number
 --- | --- | ---
