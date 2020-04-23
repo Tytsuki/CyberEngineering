@@ -45,12 +45,12 @@ The sh1 hashed string is then converted to **hex**
 
 the string then looks like this.
 ```cs
-"123" + "123456"
+"123"
 ```
 
 The md5 hashed string is then converted to **hex**  
 
-`hex(md5(string))`
+`hex(md5(string)) + 16 bit number`
 
 **this hash will be added at the end of the ticket you get when you login**
 
