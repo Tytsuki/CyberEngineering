@@ -7,7 +7,7 @@
 #### Pluto
 Pluto is a self-written moviestarplanet api with which you can send queries to the server.
 
-I will soon publish a program with which you can starcoins, fame and exploits
+I will soon publish a program with which you can get starcoins, fame and exploits
 
 ## [coming soon only on discord!](https://discordapp.com/invite/dC3jWNd)
 
