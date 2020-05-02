@@ -3,7 +3,7 @@
     "Version": "1.0"
   },
   "PlutoQueue": {
-      "StarCoinsQueue": 5000,
+      "StarCoinsQueue": 2000,
       "FameQueue": 2000
   }
 }
