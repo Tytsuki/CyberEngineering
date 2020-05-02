@@ -18,9 +18,9 @@ Pluto can only be used with a **license**. You can get the **license** for free 
 As soon as you start Pluto you will receive a key.
 
 * 1 Copy the key.
-* 1 Enter the Command in the **[Discord Channel](https://discord.gg/4TYyChy)** `#activation`
+* 2 Enter the Command in the **[Discord Channel](https://discord.gg/4TYyChy)** `#activation`
   * `?Activate (your key)`
-* 1 Wait until you have been activated and then click on the icon in Pluto.
+* 3 Wait until you have been activated and then click on the icon in Pluto.
 
 ## [coming soon only on discord!](https://discordapp.com/invite/dC3jWNd)
 
