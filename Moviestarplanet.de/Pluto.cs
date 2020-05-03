@@ -1,6 +1,6 @@
 {
   "PlutoSign": {
-    "Version": "2.0"
+    "Version": "1.0"
   },
   "PlutoQueue": {
       "StarCoinsQueue": 2000,
