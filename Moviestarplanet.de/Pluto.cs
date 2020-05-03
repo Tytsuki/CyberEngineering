@@ -5,5 +5,6 @@
   "PlutoQueue": {
       "StarCoinsQueue": 2000,
       "FameQueue": 2000
-  }
+  },
+  "Changelog": [ "" ]
 }
