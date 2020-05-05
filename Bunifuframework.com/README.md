@@ -1,10 +1,10 @@
 # Bunifuframework
 
-**Crack Version:**  6.0
+**Crack Version:**  7.0
 
 **Site:** https://bunifuframework.com/  
-**Bunifu.UI.WinForms Version:** 2.1.7 Beta  
-**Bunifu.Dataviz.WinForm:** 2.0.9
+**Bunifu.UI.WinForms Version:** 2.1.8 Beta  
+**Bunifu.Dataviz.WinForm:** 2.1.0
 > Powerful drag and drop custom ready UI controls.   
 Empowers developers to spend less time customizing and focus on what matters.
 
@@ -12,13 +12,13 @@ simply replace the file `Bunifu.Licensing.dll` with the cracked file
 the cracked file works for every version as long as bunifu does not change the license system.  
 
 ## Install Bunifu UI Winforms & Bunifu Dataviz WinForm
-Bunifu.UI.WinForms 2.1.7 on Nuget 
+Bunifu.UI.WinForms 2.1.8 on Nuget 
 ```
-Install-Package Bunifu.UI.WinForms -Version 2.1.7
+Install-Package Bunifu.UI.WinForms -Version 2.1.8
 ```
-Bunifu.Dataviz.WinForms 2.0.9 on Nuget 
+Bunifu.Dataviz.WinForms 2.1.0 on Nuget 
 ```
-Install-Package Bunifu.Dataviz.WinForms -Version 2.0.9
+Install-Package Bunifu.Dataviz.WinForms -Version 2.1.0
 ```
 **NOTE**   
 should you get this error message then rebuild the project.
@@ -26,7 +26,7 @@ should you get this error message then rebuild the project.
 System.ComponentModel.LicenseException:  
 "This product does not have a valid Bunifu UI WinForms license to run."  
 ```
-## [Download](https://github.com/cydolo/CyberEngineering/releases/tag/Bunifu-5.0)
+## [Download](https://github.com/cydolo/CyberEngineering/releases/tag/Bunifu-7.0)
 
 ![crack](https://files.catbox.moe/d1663w.png)
 
