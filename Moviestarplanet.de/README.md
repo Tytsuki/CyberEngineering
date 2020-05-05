@@ -23,4 +23,4 @@ As soon as you start Pluto you will receive a key.
 * 3 Wait until you have been activated and then click on the icon in Pluto.
 
 ## [coming soon only on discord!](https://discordapp.com/invite/dC3jWNd)
-
+![img](https://files.catbox.moe/klvguo.jpg)
