@@ -1,10 +1,12 @@
 {
   "PlutoSign": {
-    "Version": "1.0"
+    "Version": "1.1"
   },
   "PlutoQueue": {
       "StarCoinsQueue": 15000,
       "FameQueue": 1000
   },
-  "Changelog": [ "" ]
+  "Changelog": [ 
+    "! Fixed endpoint for UnitedKingdom" 
+  ]
 }
