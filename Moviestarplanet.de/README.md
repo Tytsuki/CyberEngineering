@@ -21,7 +21,7 @@ As soon as you start Pluto you will receive a key.
   * `?Activate (your key)`
 * 3 Wait until you have been activated and then click on the icon in Pluto.
 
-### [Download](https://github.com/cydolo/CyberEngineering/releases/download/Pluto-1.7/Pluto.zip)
+### [Download](https://github.com/cydolo/CyberEngineering/releases/download/Pluto-1.7/Pluto.rar)
 
 
 ![img](https://files.catbox.moe/klvguo.jpg)
