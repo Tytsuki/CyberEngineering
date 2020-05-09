@@ -14,14 +14,6 @@ I will soon publish a program with which you can get starcoins, fame and exploit
 
 Pluto can only be used with a **license**. You can get the **license** for free on **[Discord](https://discord.gg/VGktTBK)**.
 
-As soon as you start Pluto you will receive a key.
-
-* 1 Copy the key.
-* 2 Enter the Command in the **[Discord Channel](https://discord.gg/GvUapAf)** `#activation`
-  * `?Activate (your key)`
-* 3 Wait until you have been activated and then click on the icon in Pluto.
-
 ### [Download](https://github.com/cydolo/CyberEngineering/releases/download/Pluto-1.7/Pluto.rar)
-
 
 ![img](https://files.catbox.moe/klvguo.jpg)
