@@ -14,6 +14,6 @@ I will soon publish a program with which you can get starcoins, fame and exploit
 
 Pluto can only be used with a **license**. You can get the **license** for free on **[Discord](https://discord.gg/VGktTBK)**.
 
-### [Download](https://github.com/cydolo/CyberEngineering/releases/download/Pluto-1.7/Pluto.rar)
+### [Download](https://github.com/cydolo/CyberEngineering/releases/tag/Pluto-1.7)
 
 ![img](https://files.catbox.moe/klvguo.jpg)
